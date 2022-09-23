@@ -5,7 +5,6 @@ Building a simple website with recipes
 
 Skills used:
 * Git
-    * Commit messages
 * HTML basics 
     * boilerplate
     * style tags
