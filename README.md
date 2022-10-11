@@ -10,5 +10,6 @@ Skills used:
     * style tags
     * images
     * links
+    * Lists (ordered and unordered)
 * Github
 * Command line
